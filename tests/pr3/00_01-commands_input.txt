@@ -1,0 +1,33 @@
+help
+action Right UP left Dwon
+update
+reset
+u
+
+upDate
+reset
+r 0
+
+r 1
+
+r -1
+
+ao (12,2) Goomba LEFT
+
+ao (12,2) Goomba LEFT
+ao (12,2) Goomba RIGht
+AddObject (2,3) Box Empty
+addObject (3,3) Box Full
+ao (1,2) mario Right Small
+ao (14,2) LAND
+a DOwN
+r
+
+ao (12,2) ED
+
+r -1
+ao (1,2) M
+r -1
+ao (1,2) M Left
+ao (2,4) G
+exit
