@@ -1,0 +1,19 @@
+ao (10,0) Goomba
+action up up up
+reset
+ao (9,1) Goomba
+action up up r
+reset
+ao (12,2) Goomba LEFT
+
+ao (12,2) Goomba LEFT
+ao (12,2) Goomba RIGht
+
+
+ao (9,1) Goomba LEFT
+ao (10,1) Goomba RIGht
+action up up up up
+ao (12,2) ED
+
+
+exit
